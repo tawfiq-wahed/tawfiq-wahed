@@ -9,7 +9,7 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 * 🐍 Exploring **Python & Machine Learning**
 * 🚀 Always learning and building
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
----
+
 
 ## 🧠 Interests
 
@@ -50,7 +50,7 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 * Backend Development
 * Machine Learning
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -66,7 +66,7 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 </a>
 
 </p>
----
+
 
 ## 🌐 Connect
 
@@ -80,7 +80,7 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 </a>
 </p>
 
----
+
 
 <p align="center">
   <i>Keep learning. Keep building.</i> 🚀
