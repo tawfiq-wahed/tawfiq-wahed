@@ -54,7 +54,6 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub
 
 <p align="center">
 
