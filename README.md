@@ -28,7 +28,6 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 </p>
 
@@ -55,11 +54,19 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tawfiq-wahed&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tawfiq-wahed&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+## 📊 GitHub
 
+<p align="center">
+
+<a href="https://github.com/tawfiq-wahed">
+  <img src="https://img.shields.io/github/followers/tawfiq-wahed?style=for-the-badge&logo=github&label=Followers"/>
+</a>
+
+<a href="https://github.com/tawfiq-wahed?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
 ---
 
 ## 🌐 Connect
