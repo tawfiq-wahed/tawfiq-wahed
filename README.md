@@ -82,6 +82,4 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 
 
 
-<p align="center">
-  <i>Keep learning. Keep building.</i> 🚀
-</p>
+
