@@ -71,10 +71,6 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 
 ## 🌐 Connect
 
-<p align="center">
-<a href="https://github.com/tawfiq-wahed">
-<img src="https://img.shields.io/badge/GitHub-tawfiq--wahed-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
 
 <a href="mailto:tawfiqbinwahed@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
