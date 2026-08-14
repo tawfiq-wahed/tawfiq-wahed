@@ -63,7 +63,6 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
   <img src="https://img.shields.io/github/followers/tawfiq-wahed?style=for-the-badge&logo=github&label=Followers"/>
 </a>
 
-<a href="https://github.com/tawfiq-wahed?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
 </a>
 
