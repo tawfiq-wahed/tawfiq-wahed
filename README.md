@@ -1,17 +1,17 @@
-# 👋 Hi, I'm Tawfiq Bin Wahed
+#  Hi, I'm Tawfiq Bin Wahed
 
-### 🎓 Software Engineering Student | 💻 Competitive Programmer
+###  Software Engineering Student |  Competitive Programmer
 
 I'm a Software Engineering student passionate about **problem solving, algorithms, and software development**.
 
-* 🧠 Competitive Programming with **C/C++**
-* 🌐 Learning **Web Development**
-* 🐍 Exploring **Python & Machine Learning**
-* 🚀 Always learning and building
+*  Competitive Programming with **C/C++**
+*  Learning **Web Development**
+*  Exploring **Python & Machine Learning**
+*  Always learning and building
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -44,39 +44,13 @@ I'm a Software Engineering student passionate about **problem solving, algorithm
 
 
 
-## 🧠 Interests
+##  Interests
 
 * Data Structures & Algorithms
 * Competitive Programming
 * Web Development
 * Backend Development
 * Machine Learning
-
-
-
-## 📊 GitHub Stats
-
-
-<p align="center">
-
-<a href="https://github.com/tawfiq-wahed">
-  <img src="https://img.shields.io/github/followers/tawfiq-wahed?style=for-the-badge&logo=github&label=Followers"/>
-</a>
-
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
-
-## 🌐 Connect
-
-
-<a href="mailto:tawfiqbinwahed@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
 
 
 
